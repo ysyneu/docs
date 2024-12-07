@@ -38,6 +38,12 @@
       "url": "https://mintlify.com/docs"
     },
     {
+      "name": "API Reference",
+      "openapi": "openapi.json",
+      "url": "api-reference",
+      "icon": "square-terminal"
+    },    
+    {
       "name": "Community",
       "icon": "slack",
       "url": "https://mintlify.com/community"
